@@ -2,7 +2,7 @@
   "companyName": "Flanne",
   "productName": "MinutesTillDawn",
   "productVersion": "0.1",
-  "dataUrl": "https://github.com/user-attachments/files/22184462/10MinutesTillDawnWebGL.json",
+  "dataUrl": "https://cdn.jsdelivr.net/gh/Rolandelving/minutes-till-dawn-webgl@main/10MinutesTillDawnWebGL.data.unityweb",
   "wasmCodeUrl": "https://github.com/Rolandelving/minutes-till-dawn-webgl/blob/main/10MinutesTillDawnWebGL.wasm.code.unityweb",
   "wasmFrameworkUrl": "https://github.com/Rolandelving/minutes-till-dawn-webgl/blob/main/10MinutesTillDawnWebGL.wasm.framework.unityweb",
   "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
